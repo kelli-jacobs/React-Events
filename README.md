@@ -1,3 +1,3 @@
-# React-Events
+# React-Hooks
 
-This is only a collection of events to see how they work.  Nothing extravagant 
+Collection of components demonstrating my understanding react hooks and events in JSX. 
